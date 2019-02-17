@@ -3,14 +3,14 @@
 ## Escape: Yavin IV - Lost Maps
 Перевод выполнен в виде текста и требует наличия оригинальной модификации Escape: Yavin IV - Lost Maps. Переведены брифинги, цели миссий, сеттинг модификации (информация о персонажах, технике и мечах), перерисованы интро и заставочные экраны, заменены шрифты.
 
-Перевод тестировался на GOG-версии Jedi Academy для Windows, но теоретически должно работать со Steam-версией, а также на Linux и OS X вместе с OpenJK.
+Перевод тестировался на [GOG-версии Jedi Academy](https://www.gog.com/game/star_wars_jedi_knight_jedi_academy) для Windows, но теоретически должно работать со Steam-версией, а также на Linux и OS X вместе с [OpenJK](https://github.com/JACoders/OpenJK).
 #### Ссылки
 * [Оригинальная модификация](https://www.moddb.com/mods/escape-yavin-iv/downloads/escape-yavin-iv-the-lost-maps)
 * [Актуальная версия перевода (1.0b от 12.02.2019)](https://github.com/StalinEXE/Translating-Project/raw/master/Downloads/Star%20Wars/Escape:%20Yavin%20IV/ey4_RusT_1.0b.pk3)
 
 #### Авторство:
 * Перевод текста: Сергей Нахов
-* Перевод движений: ENPY
+* Перевод движений: [ENPY](https://enpy.net)
 * Русские шрифты: Фаргус & Laisum The Fox
 * Шрифт Evolve: Максим & Денис Щепины
 
