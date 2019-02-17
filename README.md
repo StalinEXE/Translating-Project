@@ -7,4 +7,4 @@
 
 На данный момент доступно для скачивания:
 
-Текстовый перевод модификации Escape: Yavin IV - The Lost Maps для Star Wars: Jedi Academy [Бета-версия 1.0b]
+[Текстовый перевод модификации Escape: Yavin IV - The Lost Maps [Бета-версия 1.0b от 12.02.2019]](https://github.com/StalinEXE/Translating-Project/blob/master/Downloads/Star%20Wars/Escape:%20Yavin%20IV/info.md)
